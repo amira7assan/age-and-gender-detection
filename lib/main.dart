@@ -42,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
   String? _gender;
   int? _age;
   bool _isLoading = false;
-  final ModelApi _api = ModelApi("https://198e-104-196-139-69.ngrok-free.app/");
+  final ModelApi _api = ModelApi("");
   late AnimationController _animationController;
   late Animation<double> _animation;
 
