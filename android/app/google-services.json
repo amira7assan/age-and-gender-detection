@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818921277963",
+    "project_id": "age-and-gender-detection-d41db",
+    "storage_bucket": "age-and-gender-detection-d41db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818921277963:android:2d2b90fa10fbe70176950e",
+        "android_client_info": {
+          "package_name": "com.example.age_and_gender_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXOFwAcsvxrMsGEK5Ec21V2-Ah5phynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
